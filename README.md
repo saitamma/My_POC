@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # microservices-demo
 
 Demo application to go with my [Microservices Blog](https://spring.io/blog/2015/07/14/microservices-with-spring) on the spring.io website.
@@ -45,3 +46,6 @@ in the second and third windows.
 =======
 # MicroDemo
 >>>>>>> 390d6c03ff836d17f776452216c9a93c8163367b
+=======
+# POC_Demo
+>>>>>>> c5115f33ceae4d7d7bae81e3b367094ebfe74fc5
