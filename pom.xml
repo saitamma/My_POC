@@ -75,7 +75,7 @@
 	<build>
 		<plugins>
 		
-			<plugin>
+			<!--  <plugin>
 				<groupId>org.jacoco</groupId>
 				<artifactId>jacoco-maven-plugin</artifactId>
 				<version>0.7.1.201405082137</version>
@@ -94,7 +94,7 @@
 					</goals>
 				</execution>
 				</executions>
-			</plugin>
+			</plugin>-->
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
