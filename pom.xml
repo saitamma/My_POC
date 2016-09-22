@@ -16,13 +16,13 @@
 		<!-- Stand-alone RESTFul application for testing only -->
 		<start-class>io.pivotal.microservices.services.Main</start-class>
 	</properties>
-		<distributionManagement>
+		<!-- <distributionManagement>
     	    <repository>
       			<id>nexus</id>
       			<name>Nexus Snapshot</name>
       			<url>http://192.168.222.128:8081/repository/maven-snapshots/</url>
     		</repository>
-    	</distributionManagement>
+    	</distributionManagement> -->
 
 	<dependencies>
 		<dependency>
